@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Skirt Sims4",
+            "image": "https://sims4updates.net/wp-content/uploads/2019/07/333-670x670.jpg",
+            "name": "SKIRT_1"
+        },
+        {
+            "id": 1,
+            "description": "T-Shirt SIMS4",
+            "image": "https://www.thesimsresource.com/scaled/3098/w-800h-600-3098466.jpg",
+            "name": "TSHIRT_1"
+        },
+        {
+            "id": 2,
+            "description": "Sweater SIMS4",
+            "image": "https://www.thesimsresource.com/scaled/3077/3077581.png",
+            "name": "SWEATER_1"
+        }
+    ]
+}
